@@ -5,9 +5,6 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 
-// <summary>
-// Extended pausable and restartable <see cref="Coroutine"/>. It includes events and persistency through <see cref="GameObject"/> disables and scene changes.
-// </summary>
 namespace Hagans.Coroutines
 {
     /// <summary>
